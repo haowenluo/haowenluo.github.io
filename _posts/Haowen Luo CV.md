@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      Haowen's resume
+subtitle:   个人简历
+date:       2020-06-28
+author:     BY
+header-img: img/cv_pic.jpg
+catalog: true
+tags:
+    - resume
+    - 简历
+    - C.V.
+---
+
 <center><span style="font-family:Didot; font-size:1.5em;">Haowen "Logan" Luo</span></center>
 ----
 Department of Economics and Finance &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Website: [Google Scholar page](https://scholar.google.com/citations?user=IB7aImIAAAAJ&hl=en)<br>Purdue University Fort Wayne&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Email: luh@pfw.edu<br>Neff 350, 2101 Coliseum Boulevard East,&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Phone:(260)481-6473<br>  Fort Wayne, IN 46805-1499
